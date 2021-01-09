@@ -1,0 +1,19 @@
+﻿<Window x:Class="Spiridonov_Lab_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spiridonov_Lab_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblTextInput" Content="Введите текст для шифрования/расшифровки" Margin="10,27,0,0" FontSize="16" HorizontalAlignment="Left" Width="348" Height="31" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbTextInput" Margin="10,58,181,0" TextWrapping="Wrap" FontSize="14" Height="110" VerticalAlignment="Top"/>
+        <Label x:Name="lblTextOutput" Content="Зашифрованный/расшифрованный текст" Margin="10,210,0,0" FontSize="16" HorizontalAlignment="Left" Width="314" Height="31" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbTextOutput" Margin="10,241,181,0" TextWrapping="Wrap" FontSize="14" IsReadOnly="True" Height="110" VerticalAlignment="Top"/>
+        <Button x:Name="btnInfo" Content="Info" Margin="0,290,20,0" HorizontalAlignment="Right" Width="135" FontSize="16" FontWeight="Bold" Click="btnInfo_Click" Height="61" VerticalAlignment="Top"/>
+        <Button x:Name="btnApply" Content="Применить" Margin="0,58,20,0" VerticalAlignment="Top" Height="61" FontSize="16" FontWeight="Bold" Click="btnApply_Click" HorizontalAlignment="Right" Width="135"/>
+        <Button x:Name="btnClear" Content="Отчистить" Margin="0,173,20,0" VerticalAlignment="Top" Height="61" FontSize="16" FontWeight="Bold" Click="btnClear_Click" HorizontalAlignment="Right" Width="135"/>
+
+    </Grid>
+</Window>
