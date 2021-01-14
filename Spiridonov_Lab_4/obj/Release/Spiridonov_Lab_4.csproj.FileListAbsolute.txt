@@ -1,0 +1,14 @@
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\bin\Release\Spiridonov_Lab_4.exe.config
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\bin\Release\Spiridonov_Lab_4.exe
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\bin\Release\Spiridonov_Lab_4.pdb
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\MainWindow.g.cs
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\App.g.cs
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4_MarkupCompile.cache
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4_MarkupCompile.lref
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\MainWindow.baml
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4.g.resources
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4.Properties.Resources.resources
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4.csproj.GenerateResource.cache
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4.csproj.CoreCompileInputs.cache
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4.exe
+F:\Study\University\C#\Spiridonov_Lab_4\Spiridonov_Lab_4\obj\Release\Spiridonov_Lab_4.pdb

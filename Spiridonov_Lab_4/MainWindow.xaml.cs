@@ -87,7 +87,8 @@ namespace Spiridonov_Lab_4
 
         private void btnInfo_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Программа шифрует и расшифровывает введенный текст с помощью шифра \"Атбаш\", пробелы, числа и знаки припинания остаются теми же, что и в изначальном тексте.");
+            //MessageBox.Show("Программа шифрует и расшифровывает введенный текст с помощью шифра \"Атбаш\", пробелы, числа и знаки припинания остаются теми же, что и в изначальном тексте.");
+            MessageBox.Show("Программа шифрует и расшифровывает введенный текст с помощью шифра \"Атбаш\", пробелы, числа и знаки припинания остаются теми же, что и в изначальном тексте.", "Информация", MessageBoxButton.OK,MessageBoxImage.Information);
         }
 
         private void btnClear_Click(object sender, RoutedEventArgs e)
